@@ -2,7 +2,7 @@
 
 ### Wilson--@charliegucci
 
-Hi. Im Wilson--junior dev currently software development @ Coder Academy.
+Hi. Im Wilson--junior dev currently studying software development @ Coder Academy.
 
 - 🔭 I’m currently working on ... our final MERN project assessment.
 - 🌱 I’m currently learning ... React
@@ -10,6 +10,6 @@ Hi. Im Wilson--junior dev currently software development @ Coder Academy.
 
 - 📫 How to reach me: ...
 
-📱 https://www.linkedin.com/in/wilsonesmundo/ </br>
+📱 linkedin.com/in/wilsonesmundo </br>
 ✉️  wilsonesmundo@icloud.com
 
