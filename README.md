@@ -2,10 +2,10 @@
 
 ### Wilson--@charliegucci
 
-Hi. Im Wilson--junior dev currently studying software development @ Coder Academy.
+Hi. Im Wilson--web dev
 
-- 🔭 I’m currently working on ... our final MERN project assessment.
-- 🌱 I’m currently learning ... React
+- 🔭 I’m currently working on ... Maytronics Aus.
+- 🌱 I’m currently learning ... Vue
 - 💬 Ask me about ...Dogs and birds.🐶 🐧
 
 - 📫 How to reach me: ...
